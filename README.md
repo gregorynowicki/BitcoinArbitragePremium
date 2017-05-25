@@ -1,1 +1,1 @@
-# BitcoinArbitragePremium
+# Where's My Free Lunch? Investigating the Bitcoin Arbitrage Premium
